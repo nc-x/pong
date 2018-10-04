@@ -1,4 +1,5 @@
-# Pong
+# Pong 
+[Play it here](https://nc-x.github.io/pong/)
    
 A **cross platform** pong game written in haxe using OpenFL.
    
